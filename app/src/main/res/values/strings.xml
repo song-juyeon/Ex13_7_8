@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ex13_7_8</string>
+    <string name="btn_inc">10 증가</string>
+    <string name="btn_dec">10 감소</string>
+</resources>
